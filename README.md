@@ -14,4 +14,4 @@ A simple Flappy Bird game clone made using **Java** and **Java Swing**.
 - Java Swing (GUI)
 - Basic Object-Oriented Programming (OOP) principles
 
-![Gameplay](https://imgur.com/UEgDyzV)
+![Gameplay](FlappyBirdGIF.mp4)
